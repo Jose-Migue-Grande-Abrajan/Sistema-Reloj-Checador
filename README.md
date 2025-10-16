@@ -58,8 +58,4 @@ Requisitos:
   
 - Java JDK compatible con Tomcat.
   
--Conexión a Internet para cargar fuentes y estilos (opcional para offline si se agrega localmente).
-
-Java JDK compatible con Tomcat.
-
-Conexión a Internet para cargar fuentes y estilos (opcional para offline si se agrega localmente).
+- Conexión a Internet para cargar fuentes y estilos (opcional para offline si se agrega localmente).
